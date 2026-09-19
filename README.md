@@ -1,4 +1,4 @@
 # student-bioinformatics
-This is my first repository.
+Bioinformatics is the combination of biology and computational science.
 <br>
-This is New Line.
+So, it is also called as computational biology.
